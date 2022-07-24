@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "855624748414",
+    "project_id": "chat-app-c384e",
+    "storage_bucket": "chat-app-c384e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:855624748414:android:ea28daeaa9230299de772f",
+        "android_client_info": {
+          "package_name": "com.sri.chat_app_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "855624748414-kvo8uicshv8dog2c7r7oenpnlqo84s8a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDETluYxKrZyuJn0RnXi9BM0-TvjrERSiA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "855624748414-kvo8uicshv8dog2c7r7oenpnlqo84s8a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
